@@ -18,7 +18,7 @@ function hasProperty(obj, propertyName) {
   
   // Demo using the helper functions
   try {
-    const person = { name: 'John', age: 30, city: 'New York' };
+    const person = { name: 'Maulana', age: 27, city: 'Jakarta' };
     const hasAgeProperty = hasProperty(person, 'age');
     console.log("Does the object have 'age' property?", hasAgeProperty);
   
