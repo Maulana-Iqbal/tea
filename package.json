@@ -1,5 +1,5 @@
 {
-  "name": "tea-serv",
+  "name": "tea",
   "version": "1.0.0",
   "description": "Tea demo project",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/seven16231/tea-serv.git"
+    "url": "https://github.com/Maulana-Iqbal/tea.git"
   },
   "dependencies": {
     "tea-serg": "1.0.0",
@@ -17,7 +17,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/seven16231/tea-serv/issues"
+    "url": "https://github.com/Maulana-Iqbal/tea/issues"
   },
-  "homepage": "https://github.com/seven16231/tea-serv#readme"
+  "homepage": "https://github.com/Maulana-Iqbal/tea#readme"
 }
